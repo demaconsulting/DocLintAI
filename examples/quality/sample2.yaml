@@ -1,0 +1,11 @@
+checks:
+- title: Minecraft Player Customization
+  prompt: Does the document describe Minecraft Player Customization (Yes or No)?
+  pass: Yes
+
+- title: Character Skins Check
+  prompt: Does the document describe how player custom skins are stored (Yes or No)?
+  pass: Yes
+  
+- title: Description
+  prompt: Describe the document.

@@ -1,0 +1,11 @@
+checks:
+- title: Sample PDF Check
+  prompt: Does the document begin with the title "Sample PDF" (Yes or No)?
+  pass: Yes
+
+- title: Latin Check
+  prompt: Does the document contain the Lorem ipsum latin placeholder txt (Yes or No)?
+  pass: Yes
+  
+- title: Description
+  prompt: Describe the document.

@@ -1,0 +1,3 @@
+documentModel: config2-document-model
+context:
+- This is the config2 context
