@@ -1,0 +1,3 @@
+imageModel: config3-image-model
+context:
+- This is the config3 context

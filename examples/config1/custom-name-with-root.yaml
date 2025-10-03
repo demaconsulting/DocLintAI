@@ -1,0 +1,6 @@
+root: true
+documentModel: config1-document-model
+imageModel: config1-image-model
+context:
+- This is an example context
+- It just has config1 information

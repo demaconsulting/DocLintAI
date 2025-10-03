@@ -1,0 +1,5 @@
+root: true
+documentModel: llama3
+imageModel: llava
+context:
+- This is a DocLintAI example document
